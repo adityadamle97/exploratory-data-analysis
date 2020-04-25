@@ -1,0 +1,11 @@
+,country,population,area,capital,developed,pci,density,continent,UNSEC member
+US,United States of America,329,9525067,Washington D.C.,yes,60200,34.540439,North America,yes
+CH,China,1357,9596961,Beijing,no,16760,141.398928,Asia,yes
+JP,Japan,126,377973,Tokyo,yes,45470,333.357144,Asia,no
+GR,Germany,83,357114,Berlin,yes,51760,232.418779,Europe,no
+UK,United Kingdom,67,242495,London,yes,43160,276.294356,Europe,yes
+FR,France,65,640679,Paris,yes,43720,101.454862,Europe,yes
+IN,India,1252,3287599,New Delhi,no,7060,380.825033,Asia,no
+IT,Italy,60,301339,Rome,yes,40030,199.071662,Europe,no
+BR,Brazil,200,8515767,Brasilia,no,15160,23.485846,South America,no
+CN,Canada,37,9984670,Ottawa,yes,45750,3.705680,North America,no
